@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Samsung Galaxy M62, alma de Note 10 com bateria de M51 [Unboxing/Hands-on] - Canaltech",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9V0NQNTV1RnctMU3SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2021-08-02T13:31:21Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tecmundo.com.br"
+            },
+            "author": "Equipe TecMundo",
+            "title": "Dispositivos Echo da Amazon com descontos de até R$ 200 OFF - Tecmundo",
+            "description": "Confira quais smart speaker com Alexa estão com ofertas especiais por tempo limitados no site da Amazon",
+            "url": "https://www.tecmundo.com.br/produto/222221-dispositivos-echo-amazon-descontos-r-200-off.htm",
+            "urlToImage": "https://img.ibxk.com.br/2021/08/02/02100851724063.jpg",
+            "publishedAt": "2021-08-02T13:09:01Z",
+            "content": "A Amazon iniciou nesta segunda-feira (02 de agosto) uma nova promoção em seu site, que traz seus dispositivos Echo com descontos de até R$ 200 OFF. Essa pode ser a sua oportunidade de garantir os sma… [+811 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tudocelular.com"
+            },
+            "author": "TudoCelular.com",
+            "title": "Motorola lança Moto G60s no Brasil com carregamento de 50W, câmera quádrupla e mais - Tudocelular.com",
+            "description": "Conheça agora o novo Motorola Moto G60s que acaba de ser oficializado no Brasil.",
+            "url": "https://www.tudocelular.com/motorola/noticias/n177733/motorola-moto-g60s-no-brasil-turbopower-50w.html",
+            "urlToImage": "https://t2.tudocdn.net/583955?w=1200",
+            "publishedAt": "2021-08-02T12:58:29Z",
+            "content": "A Motorola já anunciou 3 novos modelos para a linha Edge na semana passada e hoje um novo celular da linha G está chegando ao Brasil: o Moto G60s, que tem carregamento de Turbo Power de 50W, tela de … [+1912 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Adrenaline.com.br"
+            },
+            "author": "Felipe Freitas",
+            "title": "Thunderbolt 5 pode atingir 80Gbps, mostra foto de laboratório da Intel - Adrenaline",
+            "description": "Foto com pôster sobre Thunderbolt 5 foi publicado por executivo da própria empresa no Twitter",
+            "url": "https://adrenaline.com.br/noticias/v/70271/thunderbolt-5-pode-atingir-80gbps-mostra-foto-de-laboratorio-da-intel",
+            "urlToImage": "https://adrenaline.com.br/uploads/chamadas/intel-thunderbolt-4-chamada.jpg",
+            "publishedAt": "2021-08-02T12:36:00Z",
+            "content": "A regra básica para noticiar um rumor é esta: leve em conta a credibilidade do leaker. Ele acertou vazamentos anteriores? Ele aparenta ter algum contato interno? Se sim para qualquer uma delas, vale … [+1942 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tecmundo.com.br"
+            },
+            "author": "Giovana Pignati",
+            "title": "Telegram: conheça 11 recursos da nova atualização - TecMundo",
+            "description": "O concorrente do WhatsApp segue recebendo melhorias. Veja mudanças que chegaram ao Telegram recentemente!",
+            "url": "https://www.tecmundo.com.br/software/222216-telegram-conheca-11-recursos-nova-atualizacao.htm",
+            "urlToImage": "https://img.ibxk.com.br/2021/07/30/30181202852379.jpg",
+            "publishedAt": "2021-08-02T12:30:01Z",
+            "content": "Nesta sexta-feira (30), a equipe do Telegram divulgou as novidades da nova atualização do aplicativo. Com o foco em elevar o nível de vídeo na plataforma, alguns dos novos recursos incluem chamadas d… [+4209 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Olhardigital.com.br"
+            },
+            "author": "Olhar Digital",
+            "title": "Elon Musk exigiu ser CEO da Apple para vender a Tesla - Olhar Digital",
+            "description": "Segundo alegaÃ§Ãµes de um livro ainda nÃ£o lanÃ§ado sobre a vida de Elon Musk, o CEO da Tesla e da SpaceX teria feito uma exigÃªncia pra lÃ¡ de inusitada para poder vender sua montadora de carros elÃ©tricos para a Apple. O bilionÃ¡rio teria exigido nada menos…",
+            "url": "https://olhardigital.com.br/2021/08/02/pro/elon-musk-ceo-apple/",
+            "urlToImage": "https://img.olhardigital.com.br/wp-content/uploads/2021/08/Elon-Musk-x-Tim-Cook.jpg",
+            "publishedAt": "2021-08-02T12:22:00Z",
+            "content": "Segundo alegaÃ§Ãµes de um livro ainda nÃ£o lanÃ§ado sobre a vida de Elon Musk, o CEO da Tesla e da SpaceX teria feito uma exigÃªncia pra lÃ¡ de inusitada para poder vender sua montadora de carros elÃ… [+1720 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tudocelular.com"
+            },
+            "author": "TudoCelular.com",
+            "title": "Apple vai adotar componentes menores e dar mais espaço para bateria em seus dispositivos - Tudocelular.com",
+            "description": "Novidades que dão novo protagonismo às baterias devem chegar para todos os futuros aparelhos iOS.",
+            "url": "https://www.tudocelular.com/apple/noticias/n177730/apple-componentes-espaco-bateria-dispositivos.html",
+            "urlToImage": "https://t2.tudocdn.net/577650?w=1200",
+            "publishedAt": "2021-08-02T11:44:41Z",
+            "content": "A Apple pretende dar mais espaço para as baterias, literalmente. No horizonte dos novos iPhones, iPads e MacBooks, a empresa planeja utilizar componentes internos que sejam menores na tentativa de tr… [+1489 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tudocelular.com"
+            },
+            "author": "TudoCelular.com",
+            "title": "Vale a pena? YouTube testa plano Premium Lite com preço acessível e algumas limitações - Tudocelular.com",
+            "description": "O YouTube tem testado um novo plano Premium para quem tem orçamento mais apertado.",
+            "url": "https://www.tudocelular.com/mercado/noticias/n177729/youtube-testa-plano-premium-lite-acessivel.html",
+            "urlToImage": "https://t2.tudocdn.net/518565?w=1200",
+            "publishedAt": "2021-08-02T11:38:22Z",
+            "content": "Enquanto comemora a receita recorde obtida no começo deste ano, o YouTube iniciou os testes de um novo plano premium mais acessível. A novidade está sendo revelada inicialmente na Europa, sendo que o… [+1211 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tudocelular.com"
+            },
+            "author": "TudoCelular.com",
+            "title": "Redmi Note 10 JE é lançado no Japão com IP68, Snapdragon 480 e preço baixo - Tudocelular.com",
+            "description": "O novo Redmi Note 10 JE chega ao mercado com dois diferenciais importantes e que podem fazer inveja em consumidores de outros países.",
+            "url": "https://www.tudocelular.com/mercado/noticias/n177725/redmi-note-10-je-lancado-oficialmente-japao-ip68.html",
+            "urlToImage": "https://t2.tudocdn.net/583935?w=1200",
+            "publishedAt": "2021-08-02T10:51:41Z",
+            "content": "Aproveitando a realização das Olimpíadas no Japão, a Xiaomi apresentou nesta semana um novo smartphone dedicado ao consumidor local. Estamos falando do Redmi Note 10 JE, sendo que ele traz algumas pe… [+1304 chars]"
+        },
+        {
+            "source": {
+                "id": "globo",
+                "name": "Globo"
+            },
+            "author": null,
+            "title": "Impressão digital em focinhos permite rastrear bovinos via aplicativo de celular - Globo Rural",
+            "description": "Com plataforma gratuita para pecuaristas, startup brasileira quer criar marketplace de gado 100% rastreável",
+            "url": "https://revistagloborural.globo.com/Noticias/Pesquisa-e-Tecnologia/noticia/2021/08/impressao-digital-em-focinhos-permite-rastrear-bovinos-aplicativo-de-celular.html",
+            "urlToImage": "https://s2.glbimg.com/c0j1And5tZH85zhr03rP5oskZII=/512x320/smart/e.glbimg.com/og/ed/f/original/2021/07/30/databoi1.jpeg",
+            "publishedAt": "2021-08-02T10:33:54Z",
+            "content": "A rastreabilidade individual de bovinos, hoje restrita a menos de 5% do rebanho nacional, deverá ganhar um estímulo a mais a partir do ano que vem, quando a agritech Databoi promete lançar um aplicat… [+2438 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tudocelular.com"
+            },
+            "author": "TudoCelular.com",
+            "title": "Motorola deve lançar Edge S Pro na China, revela novo vazamento - Tudocelular.com",
+            "description": "O Motorola Edge S Pro deve ser lançado oficialmente na China na próxima quinta-feira.",
+            "url": "https://www.tudocelular.com/mercado/noticias/n177724/motorola-edge-s-pro-lancamento-oficial-china.html",
+            "urlToImage": "https://t2.tudocdn.net/583931?w=1200",
+            "publishedAt": "2021-08-02T10:22:31Z",
+            "content": "Em evento realizado na última semana, a Motorola apresentou ao mundo os novos Edge 20 Lite, Edge 20 e Edge 20 Pro. Contudo, a marca ainda tem outa apresentação agendada para quinta-feira (5).\r\nO even… [+1271 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Movile, dona do iFood, recebe aporte de R$ 1 bilhão para expandir negócios - Link Estadão",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMifmh0dHBzOi8vbGluay5lc3RhZGFvLmNvbS5ici9ub3RpY2lhcy9nZXJhbCxtb3ZpbGUtZG9uYS1kby1pZm9vZC1yZWNlYmUtYXBvcnRlLWRlLXItMS1iaWxoYW8tcGFyYS1leHBhbmRpci1uZWdvY2lvcyw3MDAwMzc5NzIzN9IBggFodHRwczovL2xpbmsuZXN0YWRhby5jb20uYnIvbm90aWNpYXMvZ2VyYWwsbW92aWxlLWRvbmEtZG8taWZvb2QtcmVjZWJlLWFwb3J0ZS1kZS1yLTEtYmlsaGFvLXBhcmEtZXhwYW5kaXItbmVnb2Npb3MsNzAwMDM3OTcyMzcuYW1w?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2021-08-02T08:00:34Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Uol.com.br"
+            },
+            "author": "UOL",
+            "title": "De onde vem o nome do iPhone? - UOL",
+            "description": "Letrinha famosa",
+            "url": "https://www.uol.com.br/tilt/amp-stories/de-onde-vem-o-nome-do-iphone/",
+            "urlToImage": "https://conteudo.imguol.com.br/c/noticias/e0/2021/04/20/iphone-12-roxo-e-o-novo-celular-da-apple-1618942212104_v2_300x225.png",
+            "publishedAt": "2021-08-02T07:02:11Z",
+            "content": "Publicado em 31 de julho de 2022.\r\n Texto: Melissa Cruz Cossetti (colaboração)Edição: Fabiana Uchinaka e Gabriela Fujita (colaboração) \r\nContinue navegando por Tilt"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Uol.com.br"
+            },
+            "author": "UOL",
+            "title": "\"Dark store\": galpões de delivery de mercado focam entregas em 15 minutos - Tilt",
+            "description": "A ideia de um motoboy trazendo uma pizza quentinha sempre esteve atrelada ao delivery. Mas o setor ganhou outros desdobramentos com o avanço dos aplicativos de entrega e as altas demandas. Com a pandemia de covid-19, o funcionamento das \"dark kitchens\" fi",
+            "url": "https://www.uol.com.br/tilt/noticias/redacao/2021/08/02/dark-store-depois-de-cozinhas-vem-ai-galpoes-de-delivery-de-mercado.htm",
+            "urlToImage": "https://conteudo.imguol.com.br/c/noticias/0b/2020/01/25/ifood-uber-eats-rappi-delivery-entrega-app-celular-1579961057857_v2_615x300.png",
+            "publishedAt": "2021-08-02T07:00:00Z",
+            "content": "A ideia de um motoboy trazendo uma pizza quentinha sempre esteve atrelada ao delivery. Mas o setor ganhou outros desdobramentos com o avanço dos aplicativos de entrega e as altas demandas. Com a pand… [+5439 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Adrenaline.com.br"
+            },
+            "author": "Juliano Aires",
+            "title": "Salto geracional das GeForce RTX 40xx será tão grande quanto a evolução das Maxwell para Pascal [RUMOR] - Adrenaline",
+            "description": "Modelos devem chegar ao consumidor no final de 2022 ou início de 2023",
+            "url": "https://adrenaline.com.br/noticias/v/70267/salto-geracional-das-geforce-rtx-40xx-sera-tao-grande-quanto-a-evolucao-das-maxwell-para-pascal-rumor",
+            "urlToImage": "https://adrenaline.com.br/uploads/chamadas/nvidia-dlss.jpg",
+            "publishedAt": "2021-08-02T06:59:00Z",
+            "content": "Apesar de apresentar placas com ótimos desempenhos, as gerações 20XX e 30XX da NVIDIA deixaram um pouco a desejar em questão de evolução para as gerações anteriores, claro que são ótimos modelos mas … [+1914 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Noticiasconcursos.com.br"
+            },
+            "author": "Saulo Moreira",
+            "title": "Nubank 2021: Novo serviço gratuito lançado; veja como usar - Notícias Concursos",
+            "description": "O Nubank é um dos bancos digitais mais atuantes no país. O seu crescimento é perceptível e somente nos últimos meses, a fintech lançou uma série de novidades, no que tange os âmbitos do investimento, cartão de crédito com cashback automático, seguro",
+            "url": "https://noticiasconcursos.com.br/nubank-2021-novo-servico-gratuito-lancado-veja-como-usar/",
+            "urlToImage": "https://noticiasconcursos.com.br/wp-content/uploads/2021/07/nubank-emprestimo-cartao-de-credito.jpg",
+            "publishedAt": "2021-08-02T01:48:13Z",
+            "content": "O Nubank é um dos bancos digitais mais atuantes no país. O seu crescimento é perceptível e somente nos últimos meses, a fintech lançou uma série de novidades, no que tange os âmbitos do investimento,… [+2953 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tudocelular.com"
+            },
+            "author": "TudoCelular.com",
+            "title": "Logitech G733 vs HyperX Cloud II Wireless vs Turtle Beach Recon 200 | Comparativo - Tudocelular.com",
+            "description": "Logitech G733, HyperX Cloud II Wireless ou Turtle Beach Recon 200: quem leva a melhor? É isso que você confere no nosso comparativo de headsets gamer!",
+            "url": "https://www.tudocelular.com/tech/noticias/n176855/logitech-g733-hyperx-cloud-ii-turtle-beach-recon.html",
+            "urlToImage": "https://t2.tudocdn.net/583915?w=1200",
+            "publishedAt": "2021-08-01T22:16:23Z",
+            "content": "Analisamos ao longo das últimas semanas três fortes concorrentes para o mercado brasileiro de headset gamers: Logitech G733, HyperX Cloud II Wireless e Turtle Beach Recon 200; e agora chegou a hora d… [+11754 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Canaltech.com.br"
+            },
+            "author": "Thiago Furquim",
+            "title": "Como desligar o iPhone sem usar os botões físicos - Canaltech",
+            "description": "Os iPhones possuem excelente durabilidade, mas são suscetíveis a problemas em seus componentes. Aprenda como desligá-lo sem usar os botões físicos",
+            "url": "https://canaltech.com.br/ios/como-desligar-o-iphone-sem-usar-os-botoes-fisicos/",
+            "urlToImage": "https://t.ctcdn.com.br/ncZ6S2lKJ3ZZ7eYkCJPKoeBtb1g=/1400x788/smart/i481579.jpeg",
+            "publishedAt": "2021-08-01T21:00:00Z",
+            "content": "Embora o iPhone seja um dispositivo com excelente durabilidade, seus componentes internos também são suscetíveis a falhas assim como qualquer outro aparelho eletrônico. Nesse sentido, não é incomum s… [+1672 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Noticiasconcursos.com.br"
+            },
+            "author": "Saulo Moreira",
+            "title": "Nubank: liberado empréstimo que pode ser pago em até 2 anos - Notícias Concursos",
+            "description": "O Nubank é um dos maiores bancos digitais do Brasil. A fintech sempre procura oferecer os melhores serviços aos seus clientes, visando sempre facilidade e comodidade em cada procedimento e transação bancária.Além de disponibilizar cartões de créditos",
+            "url": "https://noticiasconcursos.com.br/nubank-liberado-emprestimo-que-pode-ser-pago-em-ate-2-anos/",
+            "urlToImage": "https://noticiasconcursos.com.br/wp-content/uploads/2019/05/novo-cartao-nubank-1200x800.jpg",
+            "publishedAt": "2021-08-01T20:18:51Z",
+            "content": "O Nubank é um dos maiores bancos digitais do Brasil. A fintech sempre procura oferecer os melhores serviços aos seus clientes, visando sempre facilidade e comodidade em cada procedimento e transação … [+2016 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Noticiasconcursos.com.br"
+            },
+            "author": "Saulo Moreira",
+            "title": "PicPay vai dar até R$100 para clientes; veja como receber - Notícias Concursos",
+            "description": "A instituição financeira digital Picpay anunciou uma grande novidade para novos clientes. Os cashbacks, um sistema que “devolve” parte do valor gasto em uma compra para o consumidor, foram dobrados por tempo limitado em compras realizadas no cartão d",
+            "url": "https://noticiasconcursos.com.br/picpay-vai-dar-ate-r100-para-clientes-veja-como-receber/",
+            "urlToImage": "https://noticiasconcursos.com.br/wp-content/uploads/2021/07/noticiasconcursos.com.br-veja-como-pagar-boletos-parcelados-em-ate-12x-pelo-picpay-picpay.png",
+            "publishedAt": "2021-08-01T20:06:40Z",
+            "content": "A instituição financeira digital Picpay anunciou uma grande novidade para novos clientes. Os cashbacks, um sistema que devolve parte do valor gasto em uma compra para o consumidor, foram dobrados por… [+3340 chars]"
+        }
+    ]
+}
